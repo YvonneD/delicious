@@ -1,6 +1,6 @@
 React project with spoonacular API 
 
-[live demo](https://yvonned.github.io/)
+[live demo](https://yvonned.github.io/delicious/)
 
 Functions:
 
